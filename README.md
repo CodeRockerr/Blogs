@@ -1,4 +1,4 @@
-# Blogs
+# BlogPost
 ## Cloud Computing IA2 -- Adit Shah (21BCP419)
 ## Running a three-tier-application using Docker
 
